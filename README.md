@@ -1,2 +1,3 @@
-# MindVoice_Project
-MindVoice is a summer project made by Charlie Zhang and Dylan Ma.  Topics Resources
+Contributors: Chuyue Zhang Da Ma
+
+Please download the 4 zip files and put all contents into one file named "picResources".
